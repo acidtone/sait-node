@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+
+  font-family: Roboto, sans-serif;
+
+  display: flex;
+
+  background-color: skyblue;
+}
+
+main {
+  width: 75vw;
+  max-width: 60ch;
+  margin: auto;
+  padding: 2em;
+
+  border: 5px solid rebeccapurple;
+  border-radius: 1em;
+  background-color: cornsilk;
+}
+
+h1 {
+  margin-top: 0;
+}
