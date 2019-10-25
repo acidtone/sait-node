@@ -1,5 +1,8 @@
 # Day 03
-## Express Framework
+## Agenda
+
+## Slide Synopsis
+### Express Framework
 - introduction to express
 - Activity: install express
 - Activity: require express
@@ -15,11 +18,11 @@
 - Activity: add 404 middleware
 - serve static files
 
-## Middleware
+### Middleware
 - introduction to middleware
 - Example: middleware
 
-## Back to Express
+### Back to Express
 - express.static()
 - Activity: serve static files
 - css and js files
