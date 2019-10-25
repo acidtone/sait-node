@@ -1,0 +1,15 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "description": "This is a sample app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
