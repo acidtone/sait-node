@@ -1,11 +1,11 @@
 # Assignment #2 - Express website with contact form
 
 # Forms and View Engines
-In this project, you will use the skills and knowledge you've gained to write Pug and work with forms.
+In this project, you will use the skills and knowledge you've gained to write Pug/ejs and work with forms.
 
 ## Instructions
 Choose a multi-page, static website (html, css and js plus assets) of your choice for use in this activity. It must be your own work. For example:
-- a fast frontend assignment
+- a past frontend assignment
 - your portfolio site 
 - a personal project
 - something new(!)
